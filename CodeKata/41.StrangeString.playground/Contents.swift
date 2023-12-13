@@ -15,7 +15,7 @@ import Foundation
 //    return arr.joined(separator: "")
 //}
 
-
+//
 //공백의 숫자가 1개가 아닐때 오류가 뜸(단어 사이가 공백 한개라고 생각했을때)
 //func solution(_ s:String) -> String {
 //    var str = s
