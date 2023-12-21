@@ -21,7 +21,7 @@ func solution(_ s:String) -> Int {
           change = answer
         }
     }
-    return Int(answer) ?? Int(change)!    
+    return Int(answer) ?? Int(change)!
 }
 
 solution("123")
